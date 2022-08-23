@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R-GURURAJ
-- 👀 I’m interested in ...COADING.
+- 👀 I’m interested in ...CODEING.
 - 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ...EVERYTHING 
 - 📫 How to reach me ...guru1guru0@gmail.com
