@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cecsgururajr24@gmail.com**
 </span>
-<span><p align ="centre" ><img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="200"/></p></span>
+<p align ="centre" ><img  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="200"/></p>
  
 </div>
 
