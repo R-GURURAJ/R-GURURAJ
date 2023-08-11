@@ -44,4 +44,4 @@
 <p align ="center" >
 <a href="https://github.com/R-GURURAJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-GURURAJ&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/R-GURURAJ/R-GURURAJ/blob/output/snake.svg" alt="Snake animation" />
