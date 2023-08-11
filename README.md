@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/gururaj-r-7010504966-/" target="blank"><img align="center" src="https://www.svgrepo.com/show/465461/linkedin.svg" alt="gururaj-r-7010504966-/" height="40" width="50" /></a>
 <a href="https://instagram.com/r.guru_rio" target="blank"><img align="center" src="https://www.svgrepo.com/show/336216/instagram.svg" alt="r.guru_rio" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/@guru1guru0" target="blank"><img align="center" src="https://www.svgrepo.com/show/306171/hackerrank.svg" alt="@guru1guru0" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/@guru1guru0" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3629415-3032408.png" alt="@guru1guru0" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/dr_dead" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="dr_dead" height="40" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/guru_rio" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="guru_rio" height="30" width="40" /></a>
 </p>
