@@ -44,4 +44,9 @@
 <a href="https://github.com/R-GURURAJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-GURURAJ&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/R-GURURAJ/R-GURURAJ/output/github-contribution-grid-snake-dark.svg" />
+  
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R-GURURAJ/R-GURURAJ/blob/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/R-GURURAJ/R-GURURAJ/blob/output/github-contribution-grid-snake.svg">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/R-GURURAJ/R-GURURAJ/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
