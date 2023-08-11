@@ -45,8 +45,5 @@
 
 
   
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R-GURURAJ/R-GURURAJ/blob/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/R-GURURAJ/R-GURURAJ/blob/output/github-contribution-grid-snake.svg">
+  
    <img alt="github-snake" src="https://raw.githubusercontent.com/R-GURURAJ/R-GURURAJ/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
