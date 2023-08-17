@@ -3,10 +3,12 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=r-gururaj&label=Profile%20views&color=0e75b6&style=flat"  alt="r-gururaj" /> </p>
-<div display="flex">
-<div bg="fff">
-<span >
-  🔭 I’m currently working on **Student Workspace**
+<br/>
+<br/>
+
+<img align="right"  alt="Coding" width="350" height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
+- 🔭 I’m currently working on **Student Workspace**
 
 - 🌱 I’m currently learning **React / NodeJS /MongoDB** 
 
@@ -15,14 +17,9 @@
 - 💬 Ask me about **Java / Python**
 
 - 📫 How to reach me **cecsgururajr24@gmail.com**
-</span>
-</div>
-<div>
-<p align ="center" >
-<a href="https://github.com/R-GURURAJ" align="left"><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" height="200" width="300" alt="pic" /></a></p>
-
-</div>
-</div>
+<br/>
+<br/>
+<br/>
 <h3 align="center">Connect with me:</h3></br>
 <p align="center">
 <a href="https://linkedin.com/in/gururaj-r-7010504966-/" target="blank"><img align="center" src="https://www.svgrepo.com/show/465461/linkedin.svg" alt="gururaj-r-7010504966-/" height="40" width="50" /></a>
