@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java / Python**
 
-- 📫 How to reach me **cecsgururajr24@gmail.com**
+- 📫 How to reach me **r.gururaj16@gmail.com**
 <br/>
 <br/>
 <br/>
