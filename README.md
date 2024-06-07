@@ -22,7 +22,7 @@
 <br/>
 <h3 align="center">Connect with me:</h3></br>
 <p align="center">
-<a href="https://linkedin.com/in/gururaj-r-7010504966-/" target="blank"><img align="center" src="https://www.svgrepo.com/show/465461/linkedin.svg" alt="gururaj-r-7010504966-/" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/r-gururaj/" target="blank"><img align="center" src="https://www.svgrepo.com/show/465461/linkedin.svg" alt="gururaj-r-7010504966-/" height="40" width="50" /></a>
 <a href="https://instagram.com/r.guru_rio" target="blank"><img align="center" src="https://www.svgrepo.com/show/336216/instagram.svg" alt="r.guru_rio" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/@guru1guru0" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3629415-3032408.png" alt="@guru1guru0" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/dr_dead" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="dr_dead" height="40" width="50" /></a>
